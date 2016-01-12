@@ -1,0 +1,33 @@
+{
+  "name": "Viewer",
+  "version": "0.0.0",
+  "description": "basic-viewer-template\r =====================\r *Basic Viewer*  is a configurable application template used to display a web map with a specified set of commonly used tools and options.",
+  "main": "gulpfile.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-beautify": "^2.0.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-cssbeautify": "^0.1.3",
+    "gulp-jshint": "^2.0.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-sass": "^2.1.1",
+    "gulp-stylus": "^2.2.0",
+    "gulp-uncss": "^1.0.4",
+    "jshint": "^2.9.1-rc2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qbns/Viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbns/Viewer/issues"
+  },
+  "homepage": "https://github.com/qbns/Viewer"
+}
